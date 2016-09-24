@@ -3,4 +3,6 @@ A simple Israel timezone clock, showing the current GMT+3 time in the HH:MM:SS F
 
 This simple web application was meant as a way for me to learn Git, as well as the process of deploying a website.
 
+Availible at - hazman.info
 Creator - Amit Levy
+
